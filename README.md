@@ -1,4 +1,6 @@
 reprosw
 =======
 
-Lecture notes (in IPython Notebook format) on Reproducible Science And Modern Scientific Software
+Lecture notes (in IPython Notebook format) on Reproducible Science And Modern
+Scientific Software.
+
